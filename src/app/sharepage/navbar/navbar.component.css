@@ -2,6 +2,10 @@
 {
     color: var(--secondary-color);
 }
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+}
 .navbar-light .navbar-nav .nav-link.active-link
 {
     color: var(--primary-color);

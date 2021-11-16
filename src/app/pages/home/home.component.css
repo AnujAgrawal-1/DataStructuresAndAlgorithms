@@ -5,6 +5,9 @@
     background-position: center top;
     background-size: cover;
 }
+.highlight{
+    font-family: Arial;
+}
 .content
 {
     top: 30%;
